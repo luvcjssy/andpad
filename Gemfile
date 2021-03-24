@@ -8,10 +8,6 @@ gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 4.1'
 gem 'bootsnap', '>= 1.4.2', require: false
 
-# Authentication
-gem 'devise'
-gem 'devise_token_auth'
-
 # Serializer
 gem 'active_model_serializers'
 
